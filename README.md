@@ -1,6 +1,6 @@
-#🎡 Gustavo Pigosso
+🎡 Gustavo Pigosso
 
-#Aspirante a Dev Java
+Aspirante a Dev Java
 
 Me chamo Gustavo Pigosso, tenho 19 anos e sou natural de Santa Catarina.
 Atualmente estou cursando Engenharia da Computação na UNOESC, sempre me
